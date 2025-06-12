@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Diseño y Desarrollo de Páginas Web en Lima, Perú | DIINTEC</title>
@@ -8,9 +9,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">  
-  </head>
-  <body>
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+</head>
+
+<body>
     <header class="header_app">
         <div class="container">
             <div class="row align-items-center">
@@ -41,17 +43,27 @@
     <main class="main_black">
         <section class="main_hv">
             <div class="section_banner text-center">
-                <div><h2 id="text1">Destaca en el mundo digital</h2></div>
-                <div class="p_info"><p>Creamos experiencias únicas que conectan, venden y posicionan tu marca en el universo digital. Desde tiendas virtuales hasta estrategias SEO avanzadas, somos tu aliado en la evolución tecnológica.</p></div>
+                <div>
+                    <h2 id="text1">Destaca en el mundo digital</h2>
+                </div>
+                <div class="p_info">
+                    <p>Creamos experiencias únicas que conectan, venden y posicionan tu marca en el universo digital. Desde tiendas virtuales hasta estrategias SEO avanzadas, somos tu aliado en la evolución tecnológica.</p>
+                </div>
                 <div class="button_banner"><button>Comienza tu transformación ahora <img src="assets/img/button.svg" class="mx-2 img-fluid" alt=""></button></div>
             </div>
         </section>
         <section class="adornos_home py-5">
             <div class="container">
                 <div class="row align-items-center justify-content-md-center">
-                    <div class="col-lg-4"><div><img src="assets/img/linea_izquierda.png" class="img-fluid" alt=""></div></div>
-                    <div class="col-lg-1"><div class="text-center"><img src="assets/img/icon_medio.png" class="img-fluid" alt=""></div></div>
-                    <div class="col-lg-4"><div><img src="assets/img/linea_derecha.png" class="img-fluid" alt=""></div></div>
+                    <div class="col-lg-4">
+                        <div><img src="assets/img/linea_izquierda.png" class="img-fluid" alt=""></div>
+                    </div>
+                    <div class="col-lg-1">
+                        <div class="text-center"><img src="assets/img/icon_medio.png" class="img-fluid" alt=""></div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div><img src="assets/img/linea_derecha.png" class="img-fluid" alt=""></div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -79,10 +91,10 @@
                             <h4>Bring finance and IT together</h4>
                             <p>Quickly understand which transactions correspond to which software tools.</p>
                         </div>
-                    </div> 
+                    </div>
                     <div class="fondo_efecto_parallax">
                         <img src="assets/img/efecto_fondo_parallax.png" class="img-fluid" alt="">
-                    </div>                                       
+                    </div>
                 </div>
             </div>
         </section>
@@ -100,9 +112,9 @@
                                     <h2>Soluciones web a medida que venden.</h2>
                                     <p>
                                         Diseñamos y desarrollamos paneles de control visuales,
-                                        modernos y funcionales para tu negocio. Muestra métricas, 
-                                        gestiona datos, automatiza procesos y aumenta tus ventas. 
-                                        ¡Todo desde una sola plataforma!                                        
+                                        modernos y funcionales para tu negocio. Muestra métricas,
+                                        gestiona datos, automatiza procesos y aumenta tus ventas.
+                                        ¡Todo desde una sola plataforma!
                                     </p>
                                     <div class="flex_button_cto">
                                         <div class="texto_informativo">
@@ -140,7 +152,7 @@
                                     <h5>HULLKA COFFE</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -158,7 +170,7 @@
                                     <h5>ASTUR SANTA FE</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -176,7 +188,7 @@
                                     <h5>ALTO KIVINAKI</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -194,12 +206,12 @@
                                     <h5>NUAM</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
                                 </div>
-                            </div> 
+                            </div>
                             <div class="item_cliente">
                                 <div class="alto_card">
                                     <img src="assets/img/logo-nuam.png" alt="">
@@ -212,12 +224,12 @@
                                     <h5>NUAM</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
                                 </div>
-                            </div>      
+                            </div>
                             <div class="item_cliente">
                                 <div class="alto_card">
                                     <img src="assets/img/logo-hullka.png" alt="">
@@ -230,7 +242,7 @@
                                     <h5>HULLKA COFFE</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -248,7 +260,7 @@
                                     <h5>ASTUR SANTA FE</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -266,7 +278,7 @@
                                     <h5>ALTO KIVINAKI</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
@@ -284,12 +296,12 @@
                                     <h5>NUAM</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
                                 </div>
-                            </div> 
+                            </div>
                             <div class="item_cliente">
                                 <div class="alto_card">
                                     <img src="assets/img/logo-nuam.png" alt="">
@@ -302,16 +314,737 @@
                                     <h5>NUAM</h5>
                                     <p>Conoce cómo diseñamos la SuperApp más robusta del país</p>
                                     <a href="">
-                                        Ver Proyecto 
+                                        Ver Proyecto
                                         <img src="assets/img/ver.png" class="ms-3 negro img-fluid" alt="">
                                         <img src="assets/img/none.png" class="ms-3 blanco img-fluid" alt="">
                                     </a>
                                 </div>
-                            </div>                                                                                                                                       
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section class="testimonios">
+
+            <div class="testimonios-container">
+                <!-- Columna 1 - Scroll hacia abajo -->
+                <div class="columna scroll-down">
+                    <div class="inner">
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Columna 2 - Scroll hacia arriba -->
+                <div class="columna scroll-up">
+                    <div class="inner">
+                       <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Columna 3 - Scroll hacia abajo -->
+                <div class="columna scroll-down">
+                    <div class="inner">
+                       <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </section>
     </main>
 
@@ -332,6 +1065,7 @@
     </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="assets/js/contenido.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>        
-    </body>
+    <script src="assets/js/owl.carousel.min.js"></script>
+</body>
+
 </html>
