@@ -326,10 +326,11 @@
             </div>
         </section>
 
-        <section class="testimonios">
-
-            <div class="testimonios-container">
-                <!-- Columna 1 - Scroll hacia abajo -->
+        <section class="testimonios py-5">
+            <div class="col-12">
+                <h3>Recomendaciones</h3>
+            </div>
+            <div class="testimonios-container py-5">
                 <div class="columna scroll-down">
                     <div class="inner">
                         <div class="testimonial p-4">
@@ -567,10 +568,9 @@
                     </div>
                 </div>
 
-                <!-- Columna 2 - Scroll hacia arriba -->
                 <div class="columna scroll-up">
                     <div class="inner">
-                       <div class="testimonial p-4">
+                        <div class="testimonial p-4">
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <img src="assets/img/bars.svg" class="imgBars" alt="">
@@ -806,38 +806,8 @@
                     </div>
                 </div>
 
-                <!-- Columna 3 - Scroll hacia abajo -->
                 <div class="columna scroll-down">
                     <div class="inner">
-                       <div class="testimonial p-4">
-                            <div class="d-flex justify-content-between">
-                                <div>
-                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
-                                </div>
-                                <div class="d-flex">
-                                    <img src="assets/img/star.svg" class="imgStart" alt="">
-                                    <img src="assets/img/star.svg" class="imgStart" alt="">
-                                    <img src="assets/img/star.svg" class="imgStart" alt="">
-                                    <img src="assets/img/star.svg" class="imgStart" alt="">
-                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
-                                </div>
-                            </div>
-                            <div class="mt-5 mb-2">
-                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
-                            </div>
-                            <div>
-                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
-                            </div>
-                            <div class="d-flex mt-3 gap-4">
-                                <div>
-                                    <img src="assets/img/user.png" class="img-fluid" alt="">
-                                </div>
-                                <div>
-                                    <h4 class="mb-1">Jeremy Smith</h4>
-                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
-                                </div>
-                            </div>
-                        </div>
                         <div class="testimonial p-4">
                             <div class="d-flex justify-content-between">
                                 <div>
@@ -1039,6 +1009,81 @@
                                     <h4 class="mb-1">Jeremy Smith</h4>
                                     <p class="mb-0 fundador">Fundador: Seedlang</p>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="testimonial p-4">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <img src="assets/img/bars.svg" class="imgBars" alt="">
+                                </div>
+                                <div class="d-flex">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star.svg" class="imgStart" alt="">
+                                    <img src="assets/img/star-empty.svg" class="imgStart" alt="">
+                                </div>
+                            </div>
+                            <div class="mt-5 mb-2">
+                                <p class="mb-0">Diintec es un equipo muy talentoso. Trabaja con rapidez y tiene un gran ojo para los detalles. sus diseños siempre son de alta calidad y lucen geniales. Diintec es paciente. sabe escuchar v hace cambios con rapidez. Lo recomendamos ampliamente</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/line-card-testimony.svg" class="w-100" alt="">
+                            </div>
+                            <div class="d-flex mt-3 gap-4">
+                                <div>
+                                    <img src="assets/img/user.png" class="img-fluid" alt="">
+                                </div>
+                                <div>
+                                    <h4 class="mb-1">Jeremy Smith</h4>
+                                    <p class="mb-0 fundador">Fundador: Seedlang</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="comunidad py-5">
+            <div class="container comunidadContainer">
+                <div class="row">
+                    <div class="col-12 d-flex justify-content-center">
+                        <div class="col-7 comunidadCard p-5">
+
+                            <h3 class="text-center comunidadCardTitle">Únete a nuestra lista de espera</h3>
+
+                            <div class="px-5">
+                                <p class="comunidadCardParagraph mb-5">Sé el primero en recibir novedades sobre nuestros servicios de desarrollo web y apps, lanzamientos exclusivos y consejos de innovación digital directamente en tu bandeja de entrada.</p>
+                            </div>
+
+                            <div class="d-flex justify-content-center gap-3">
+                                <input type="email" class="form-control comunidadCardInputEmail" placeholder="Ingresa tu correo electrónico">
+                                <button type="button" class="btn btn-link comunidadCardButton">Iniciar Sesión</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="footer_app py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="d-flex">
+
+                        <div class="col-lg-12">
+
+                            <div class="nav_footer d-flex">
+                                <div class="logo_web ps-3">
+                                    <a href=""><img src="assets/img/logo2.svg" class="img-fluid" alt=""></a>
+                                </div>
+                                <ul class="ul_nav">
+                                    <li><a href="">Copyright 2025 Diintec</a></li>
+                                    <li><a href="">Privacy Policy </a></li>
+                                    <li><a href="">Terms of Service</a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>

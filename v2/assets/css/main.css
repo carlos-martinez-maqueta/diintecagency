@@ -300,11 +300,11 @@
   box-sizing: border-box;
   border-radius: 36px;
 }
-.testimonial p{
-    font-size: 18px;
+.testimonial p {
+  font-size: 18px;
 }
-.fundador{
-    color: #ACACAF;
+.fundador {
+  color: #acacaf;
 }
 /* Animaciones */
 .scroll-down .inner {
@@ -340,3 +340,91 @@
   }
 }
 /* fin seccion testimonios */
+/* inicio comunidad */
+.testimonios h3 {
+  text-align: center;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 64px;
+}
+.comunidad .comunidadContainer {
+  height: 100%;
+  display: flex;
+}
+.comunidadCard {
+  background-color: #00000026;
+  color: white;
+  border-radius: 40px;
+  border: 1px solid #ffffff52;
+}
+.comunidadCard .comunidadCardTitle {
+  font-size: 40px;
+  font-weight: normal;
+}
+.comunidadCard .comunidadCardParagraph {
+  text-align: center;
+  color: #b8b9bf;
+  font-size: 16px;
+}
+.comunidadCard .comunidadCardInputEmail {
+  height: 56px;
+  width: 356px;
+  border-radius: 40px;
+  background-color: #00000026;
+  padding: 16px 20px 16px 25px;
+  border: 1px solid #ffffff52;
+  border-radius: 40px;
+  color: #ffffff;
+}
+.comunidadCard .comunidadCardInputEmail::placeholder {
+  color: white;
+}
+.comunidadCard .comunidadCardButton {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
+  padding: 16px 28px;
+  display: block;
+  border-radius: 50px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+/* fin de comunidad*/
+
+/* footer */
+.footer_app .nav_footer {
+  border: 1px solid #ffffff52;
+  border-radius: 32px;
+  width: fit-content;
+  margin: auto;
+  height: 92px;
+  display: flex;
+  align-items: center;
+}
+.footer_app .nav_footer .ul_nav {
+  list-style: none;
+  display: flex;
+  width: fit-content;
+  margin: auto;
+  padding: 0px;
+  background-color: #0000001c;
+  border-radius: 32px;
+}
+.footer_app .nav_footer .ul_nav li {
+  padding: 16px 30px;
+}
+.footer_app .nav_footer .ul_nav li a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.footer_app .cto_button a {
+  background-color: #ffffff;
+  padding: 16px 32px;
+  border-radius: 56px;
+  color: #000000;
+  font-weight: 600;
+  text-decoration: none;
+}
