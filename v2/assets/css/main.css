@@ -392,6 +392,10 @@
 .form-control:focus {
   box-shadow: none;
 }
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active{
+  background-color: #ffffff;
+  color: #000000;
+}
 /* fin de comunidad*/
 
 /* footer */
