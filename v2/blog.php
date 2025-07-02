@@ -40,14 +40,14 @@
             </div>
         </div>
     </header>
-    <main class="main_black">
+    <main class="main_black main_blog">
         <section class="main_hv">
             <div class="section_banner text-center">
                 <div>
-                    <h2 id="text1">Destaca en el mundo digital</h2>
+                    <h2 id="">Blog de Tecnología, Diseño y Estrategia Digital</h2>
                 </div>
                 <div class="p_info">
-                    <p>Creamos experiencias únicas que conectan, venden y posicionan tu marca en el universo digital. Desde tiendas virtuales hasta estrategias SEO avanzadas, somos tu aliado en la evolución tecnológica.</p>
+                    <p>En nuestro blog encontrarás consejos prácticos, novedades y buenas prácticas sobre desarrollo web, diseño moderno, posicionamiento SEO, herramientas digitales y más. Publicamos contenido útil tanto para emprendedores como para profesionales que buscan optimizar su presencia online y hacer crecer su negocio.</p>
                 </div>
                 <!-- <div class="button_banner"><button>Comienza tu transformación ahora <img src="assets/img/button.svg" class="mx-2 img-fluid" alt=""></button></div> -->
             </div>
@@ -102,11 +102,35 @@
                     </div>
                 </div>
             </div>
+        </section>   
+        
+        
+        <section class="footer_app py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="d-flex">
+
+                        <div class="col-lg-12">
+
+                            <div class="nav_footer d-flex">
+                                <div class="logo_web ps-3">
+                                    <a href=""><img src="assets/img/logo2.svg" class="img-fluid" alt=""></a>
+                                </div>
+                                <ul class="ul_nav">
+                                    <li><a href="">Copyright 2025 Diintec</a></li>
+                                    <li><a href="">Privacy Policy </a></li>
+                                    <li><a href="">Terms of Service</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </section>        
     </main>
 
     <footer>
-
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
     <script>

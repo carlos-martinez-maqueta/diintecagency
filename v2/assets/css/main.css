@@ -482,6 +482,12 @@ color: #ffffff;
     margin: 4px 0px;
     font-weight: 700;
 }
+.main_blog h2{
+  font-size: 40px !important;
+}
+.main_blog .p_info p{
+  font-size: 16px !important;
+}
 /* footer */
 .footer_app .nav_footer {
   border: 1px solid #ffffff52;
