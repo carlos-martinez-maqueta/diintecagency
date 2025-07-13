@@ -75,7 +75,7 @@ function getTable(dataTable) {
           '<td class="align-middle">' +
           '<div class="d-flex justify-content-center align-items-center gap-1">' +
           '<a href="edit-blog?id=' + result.id + '" class="btn btn-sm btn-warning"><i class="bx bxs-edit"></i></a>' +
-          '<button type="button" class="btn btn-sm btn-danger delete" data-id="' + result.id + '"><i class="bx bx-trash"></i></button>' +
+          '<a href="config/global/delete-blog.php?id=' + result.id + '" class="btn btn-sm btn-danger delete"><i class="bx bx-trash"></i></a>' +
           '</div>' +
           '</td>' +
           '</tr>';
@@ -84,3 +84,21 @@ function getTable(dataTable) {
     }
   });
 }
+$(document).on('click', '.delete', function (e) {
+    e.preventDefault(); // Previene redirección inmediata
+
+    const url = $(this).attr('href');
+
+    Swal.fire({
+        title: '¿Estás seguro?',
+        text: 'Esta acción no se puede deshacer.',
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonText: 'Sí, eliminar',
+        cancelButtonText: 'Cancelar'
+    }).then((result) => {
+        if (result.isConfirmed) {
+            window.location.href = url;
+        }
+    });
+});
