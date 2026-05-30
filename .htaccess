@@ -1,0 +1,15 @@
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /diintecagency/
+
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    RewriteRule ^blog/([a-zA-Z0-9_-]+)/?$ detalle-blog.php?slug=$1 [L,QSA]
+    RewriteRule ^proyecto/([a-zA-Z0-9_-]+)/?$ detalle-proyecto.php?slug=$1 [L,QSA]
+
+    RewriteRule ^([^.\s]+)$ $1.php [NC,L]
+</IfModule>

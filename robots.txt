@@ -1,0 +1,8 @@
+# Sitio principal (v2 servido desde la raíz del proyecto)
+User-agent: *
+Allow: /
+
+# Panel de administración: no indexar
+Disallow: /dashboard/
+
+Sitemap: https://diintec.com/sitemap.xml
